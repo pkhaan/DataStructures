@@ -1,2 +1,3 @@
 # DataStructures
-Collection Of Data Strucrures in Java
+Collection Of Data Structures in Java
+Including Various Exercises And Assignments
